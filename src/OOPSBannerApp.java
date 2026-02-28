@@ -1,7 +1,7 @@
 /*
 *OOPSBannerApp UC6
 *
-*@author Dhanush
+*@author Dhammer
 *@version 6.0 
 */
 
